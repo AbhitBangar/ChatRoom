@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ChatClient",
+            "request": "launch",
+            "mainClass": "ChatClient",
+            "vmArgs": "--C:/Users\/bhit3/Downloads/openjfx-23_windows-x64_bin-sdk/javafx-sdk-23"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChatServer",
+            "request": "launch",
+            "mainClass": "ChatServer"
+        }
+    ]
+}
